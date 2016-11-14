@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AF0303</color>
+    <color name="colorPrimaryDark">#AF0303</color>
+    <color name="colorAccent">#d32114</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="line_color_gray">#CCCCCC</color>
+    <color name="line_color_gray2">#E6E6E6</color>
+    <color name="progress_color_gray">#CCCCCC</color>
+    <color name="gray_text_color">#D0D0D0</color>
+    <color name="red">#d32114</color>
+    <color name="light_yellow">#E6BA25</color>
+    <color name="black">#000000</color>
+    <color name="light_blue">#5CACEE</color>
+    <!-- 灰字色值 -->
+    <color name="text_gray">#666666</color>
+    <!-- 灰字色值 -->
+    <color name="text_gray2">#888888</color>
+    <!-- 蓝色色值 -->
+    <color name="text_blue">#3F82CA</color>
+    <!-- 黑色-->
+    <color name="text_black">#353535</color>
+    <!-- 半透明遮挡 -->
+    <color name="gray_translucent">#5e000000</color>
+    <!-- 无内容背景灰 -->
+    <color name="nullgray">#F1F1F1</color>
+    <color name="nullgray2">#FaFaFa</color>
+    <!-- 主題红色-->
+    <color name="theme">#d32114</color>
+    <color name="high_red">#750000</color>
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+</resources>
