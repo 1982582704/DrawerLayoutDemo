@@ -17,8 +17,10 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-/**
- * 抽屉式：侧滑菜单
+/** 
+ * 作用:抽屉式：侧滑菜单
+ * autour: Sh
+ * date: 2016/11/14
  */
 public class DrawerLayoutActivity extends FragmentActivity {
 
